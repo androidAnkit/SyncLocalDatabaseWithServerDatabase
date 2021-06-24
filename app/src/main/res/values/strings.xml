@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Names</string>
+    <string name="title">List of Names</string>
+    <string name="fetch">http://192.168.11.15/woco_connect.php?fetch=1</string>
+</resources>
